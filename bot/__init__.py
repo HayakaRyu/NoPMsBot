@@ -62,7 +62,7 @@ START_COMMAND = get_config("START_COMMAND", "start")
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "English 
+        "English 🇬🇧🇮🇩"
         "Hello. ☺️\n"
         "Is there anything I can help?\n\n"
         "You can visit my channel to see what's in there"
