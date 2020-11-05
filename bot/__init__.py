@@ -63,14 +63,14 @@ START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
         "English 🇬🇧\n"
-        "Hello. ☺️\n"
-        "Is there anything I can help?\n"
+        "Hello. ☺️\n\n"
+        "Is there anything I can help?\n\n"
         "You can visit my channel to see what's in there"
         "Maybe my master will respond to your chat in a few hours.\n\n"
         "Thank's you 😊\n\n"
         "Indonesian 🇮🇩\n"
-        "Hai. ☺️\n"
-        "Apakah ada yang bisa saya bantu?\n"
+        "Hai. ☺️\n\n"
+        "Apakah ada yang bisa saya bantu?\n\n"
         "Anda dapat mengunjungi saluran saya untuk melihat apa yang ada di sana"
         "Mungkin Masterku akan menanggapi obrolanmu dalam beberapa jam.\n\n"
         "Terima Kasih 😊"
