@@ -62,22 +62,28 @@ START_COMMAND = get_config("START_COMMAND", "start")
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "English 🇬🇧🇮🇩"
+        "English 🇬🇧\n"
         "Hello. ☺️\n"
-        "Is there anything I can help?\n\n"
+        "Is there anything I can help?\n"
         "You can visit my channel to see what's in there"
-        "Maybe my master will respond to your chat in a few hours.\n\n\n"
-        "Thank's you 😊"
+        "Maybe my master will respond to your chat in a few hours.\n\n"
+        "Thank's you 😊\n\n"
+        "Indonesian 🇮🇩\n"
+        "Hai. ☺️\n"
+        "Apakah ada yang bisa saya bantu?\n"
+        "Anda dapat mengunjungi saluran saya untuk melihat apa yang ada di sana"
+        "Mungkin Masterku akan menanggapi obrolanmu dalam beberapa jam.\n\n"
+        "Terima Kasih 😊"
     )
 )
 # check online status of your bot
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
+        "Hello"
         "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Hai"
+        "Saya aktif <b>master</b>"
     )
 )
 # IDEKWBYRW
